@@ -2,7 +2,7 @@
 
 > This is a project aimed at creating Appla Home Webpage.
 
-![screenshots](shot.jpg)
+![screenshots](./shot.jpg)
 
 ## Built With
 
