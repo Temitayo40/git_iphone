@@ -1,9 +1,9 @@
 # APPLE WEBPAGE
 
 > This is a project aimed at creating Appla Home Webpage.
-
-![screenshots](./shot.jpg)
-
+<br><br>
+<img src="./shot.jpg">
+<br>
 ## Built With
 
 - HTML
