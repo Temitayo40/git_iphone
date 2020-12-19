@@ -2,7 +2,7 @@
 
 > This is a project aimed at creating Appla Home Webpage.
 <br><br>
-<img src="./shot.jpg">
+<img src="shot.jpg">
 <br>
 ## Built With
 
