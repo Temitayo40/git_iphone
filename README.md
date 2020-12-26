@@ -1,9 +1,9 @@
 # APPLE WEBPAGE
 
 > This is a project aimed at creating Appla Home Webpage.
-
-![screenshots](shot.jpg)
-
+<br><br>
+<img src="./picture.jpg">
+<br><br>
 ## Built With
 
 - HTML
@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-<a href="https://github.com/Temitayo40/git_iphone" target="_blank">Apple</a>
+[Live Demo Link](https://rawcdn.githack.com/Temitayo40/git_iphone/f5f2ea43e36df9498c94bab9526566efad505aed/index.html)
 
 ## Getting Started
 
